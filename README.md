@@ -5,5 +5,7 @@ It uses socket.io and Node as its main techstacks and I have also used react js 
 
 You can also see the video of working code
 
-Link of Video :
 Link of website : https://codingroom.vercel.app/
+
+Link of Video : https://github.com/AshishShandil1199/CodingRoom/issues/1#issue-1827527827
+
